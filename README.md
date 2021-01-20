@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Меня зовут Михалыч, я ровесник космонавтики.
 Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
 </h4>
-<div style="background-image: bckg-w.svg;">
+<div style="background-image: https://cloud.mail.ru/public/EMmy/tF43v4eFZ;">
 <a href="https://vk.com/rz3ddd">
   <img align="left" alt="VKontakte" width="22px" border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
