@@ -1,3 +1,5 @@
+### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <!--
 **RZ3DDD/RZ3DDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Привет, меня зовут Михалыч, я ровесник космонавтики.
-### Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
-
+<h3>
+Меня зовут Михалыч, я ровесник космонавтики.
+Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
+</h3>
+<div style="background-color: white">
 <a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="22px" style="background-color: white" border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="22px"  border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/yshonweb">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+</div>
 <br />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
