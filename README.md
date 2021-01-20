@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Привет, меня зовут Михалыч, я ровесник космонавтики. Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет, меня зовут Михалыч, я ровесник космонавтики.
+### Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
+
 <a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="22px" style="background-color: white" border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
