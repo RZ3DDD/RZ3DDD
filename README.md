@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Меня зовут Михалыч, я ровесник космонавтики.
 Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
 </h4>
-<div style="background-image: https://cloud.mail.ru/public/EMmy/tF43v4eFZ;">
+<div>
 <a href="https://vk.com/rz3ddd">
   <img align="left" alt="VKontakte" width="22px" border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br />
-
-<img align="left" src="/bckg-w.png">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
   
