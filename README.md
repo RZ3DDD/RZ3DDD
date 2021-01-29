@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
+  <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 </a>
 -->
 <a href="https://t.me/RZ3DDD">
-  <img align="left" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
+  <img align="right" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
 </a>
 <a href="https://www.instagram.com/yshonweb">
-  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
+  <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
 </div>
 
