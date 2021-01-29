@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-<img align="right" alt="YSh logo" width="222px" src="YSh_logos-script-birdie_white.svg" />
+<img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
