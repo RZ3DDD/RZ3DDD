@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
 </h4>
 <br />
-
-<img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
+<table>
+  <tr>
+    <td>
 **Languages and Tools:**
-<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -37,8 +37,20 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<div>
+    </td>
+    <td>
+<img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
+    </td>
+  </tr>
+  <tr>
+      <td>
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [ ] Прокачать навыки по С#
+* [ ] Прокачать навыки по TypeScript
+<!-- TODO-IST:END -->
+    </td>
+    <td>
 <a href="https://vk.com/rz3ddd">
   <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
 </a>
@@ -56,11 +68,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/yshonweb">
   <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
-</div>
-
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [ ] Прокачать навыки по С#
-* [ ] Прокачать навыки по TypeScript
-<!-- TODO-IST:END -->
+    </td>
+  </tr>
+</table>
