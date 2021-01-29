@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Меня зовут Михалыч, я ровесник космонавтики. Изучаю несколько интересующих меня технологий и занимаюсь разнообразными проектами.
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### 🚧 Мои задачи на ближайшее время:
+### 🚧 Мои задачи на ближайшее время:
 <!-- TODO-IST:START -->
 * [ ] Прокачать навыки по С#
 * [ ] Прокачать навыки по TypeScript
