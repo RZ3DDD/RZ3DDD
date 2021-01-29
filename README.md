@@ -20,28 +20,28 @@ Here are some ideas to get you started:
 </h4>
 <div>
 <a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="28px" border="2px" src="logo_vk-wide-grey-bg.svg" />
+  <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 -->
 <a href="https://t.me/RZ3DDD">
-  <img align="left" alt="Abhishek's Telegram" width="28px" src="logo_telegram-grey-bg.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
 </a>
 <a href="https://www.instagram.com/yshonweb">
-  <img align="left" alt="Instagram" width="28px" src="logo_instagram-grey-bg.svg" />
+  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
 </div>
 <br />
 
 <img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
 **Languages and Tools:**
-<br>
+<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
