@@ -1,3 +1,15 @@
+<img src="YSh_logos-script-birdie_grey.svg" alt="My logo" width="222"/>
+
+<a href="https://vk.com/rz3ddd">
+  <img align="left" alt="VKontakte" width="48px" src="logo_vk-wide-grey-bg.svg" />
+</a>
+<a href="https://t.me/RZ3DDD">
+  <img align="left" alt="Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
+</a>
+<a href="https://www.instagram.com/yshonweb">
+  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
+</a>
+
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
@@ -16,19 +28,6 @@ Here are some ideas to get you started:
 -->
 
 #### Меня зовут Михалыч, я ровесник космонавтики. Изучаю несколько интересующих меня технологий и занимаюсь разнообразными проектами.
-
-
-<img src="YSh_logos-script-birdie_grey.svg" alt="My logo" width="222"/>
-<a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="48px" src="logo_vk-wide-grey-bg.svg" />
-</a>
-<a href="https://t.me/RZ3DDD">
-  <img align="left" alt="Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
-</a>
-<a href="https://www.instagram.com/yshonweb">
-  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
-</a>
-
 
 #### Languages and Tools:
 
