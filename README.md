@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h4>
 <div>
 <a href="https://vk.com/rz3ddd">
-  <img align="left" alt="VKontakte" width="22px" border="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="28px" border="2px" src="logo_vk-wide-grey-bg.svg" />
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 </a>
 -->
 <a href="https://t.me/RZ3DDD">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="28px" src="logo_telegram-grey-bg.svg" />
 </a>
 <a href="https://www.instagram.com/yshonweb">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="28px" src="logo_instagram-grey-bg.svg" />
 </a>
 </div>
 <br />
