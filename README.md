@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
+My name is Mikhalych, I am the same age as cosmonautics. I am studying several technologies that interest me and I am engaged in various projects.
+
 Меня зовут Михалыч, я ровесник космонавтики. Изучаю несколько интересующих меня технологий и занимаюсь разнообразными проектами.
 
 ### Languages and Tools:
@@ -36,10 +38,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚧 Мои задачи на ближайшее время:
+### 🚧 My tasks for the near future / Мои задачи на ближайшее время:
 <!-- TODO-IST:START -->
-* [ ] Прокачать навыки по С#
-* [ ] Прокачать навыки по TypeScript
+* [ ] Upgrade skills in C# / Прокачать навыки по С#
+* [ ] Upgrade skills in TypeScript / Прокачать навыки по TypeScript
 <!-- TODO-IST:END -->
 
 ---
