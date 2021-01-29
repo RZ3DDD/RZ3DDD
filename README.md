@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
 </h4>
 <br />
-<table>
+<table cellpadding="5" border="0" >
   <tr>
     <td>
 **Languages and Tools:**
@@ -38,19 +38,19 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     </td>
-    <td>
+    <td align="center">
 <img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
     </td>
   </tr>
   <tr>
-      <td>
+      <td align="left">
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [ ] Прокачать навыки по С#
 * [ ] Прокачать навыки по TypeScript
 <!-- TODO-IST:END -->
     </td>
-    <td>
+    <td align="center">
 <a href="https://vk.com/rz3ddd">
   <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
 </a>
