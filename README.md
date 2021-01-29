@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 </a>
 <!--
 <a href="https://twitter.com/your_profile">
-  <img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/your_profile">
-  <img align="right" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 -->
 <a href="https://t.me/RZ3DDD">
-  <img align="left" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
+  <img align="right" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
 </a>
 <a href="https://www.instagram.com/yshonweb">
-  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
+  <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
 </div>
 <br />
