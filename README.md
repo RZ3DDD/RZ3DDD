@@ -27,20 +27,12 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/yshonweb">
   <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
- 
 
-<br />
-<table cellpadding="5" border="0" >
-  <tr>
-    <td>
-**Languages and Tools:**
+#### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
--->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,20 +40,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    </td>
-    <td align="center">
-<img align="right" alt="YSh logo" width="322px" src="YSh_logos-script-birdie_grey.svg" />
-    </td>
-  </tr>
-  <tr>
-      <td align="left">
-🚧 **Мои задачи на ближайшее время:**
+
+#### 🚧 Мои задачи на ближайшее время:
 <!-- TODO-IST:START -->
 * [ ] Прокачать навыки по С#
 * [ ] Прокачать навыки по TypeScript
 <!-- TODO-IST:END -->
-    </td>
-    <td align="center">
-   </td>
-  </tr>
-</table>
+
+---
