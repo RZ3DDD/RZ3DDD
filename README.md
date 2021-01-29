@@ -14,10 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>
-Меня зовут Михалыч, я ровесник космонавтики.
-Изучаю несколько интересных технологий и занимаюсь разнообразными проектами.
-</h4>
+
+#### Меня зовут Михалыч, я ровесник космонавтики. Изучаю несколько интересующих меня технологий и занимаюсь разнообразными проектами.
+
+<img src="YSh_logos-script-birdie_grey.svg" alt="My logo" width="222"/>
+<a href="https://vk.com/rz3ddd">
+  <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
+</a>
+<a href="https://t.me/RZ3DDD">
+  <img align="right" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
+</a>
+<a href="https://www.instagram.com/yshonweb">
+  <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
+</a>
+ 
+
 <br />
 <table cellpadding="5" border="0" >
   <tr>
@@ -51,23 +62,6 @@ Here are some ideas to get you started:
 <!-- TODO-IST:END -->
     </td>
     <td align="center">
-<a href="https://vk.com/rz3ddd">
-  <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
-</a>
-<!--
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
--->
-<a href="https://t.me/RZ3DDD">
-  <img align="right" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
-</a>
-<a href="https://www.instagram.com/yshonweb">
-  <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
-</a>
-    </td>
+   </td>
   </tr>
 </table>
