@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <img src="YSh_logos-script-birdie_grey.svg" alt="My logo" width="222"/>
 <a href="https://vk.com/rz3ddd">
-  <img align="right" alt="VKontakte" width="48px" border="2px" src="logo_vk-wide-grey-bg.svg" />
+  <img align="left" alt="VKontakte" width="48px" src="logo_vk-wide-grey-bg.svg" />
 </a>
 <a href="https://t.me/RZ3DDD">
-  <img align="right" alt="Abhishek's Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
+  <img align="left" alt="Telegram" width="48px" src="logo_telegram-grey-bg.svg" />
 </a>
 <a href="https://www.instagram.com/yshonweb">
-  <img align="right" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
+  <img align="left" alt="Instagram" width="48px" src="logo_instagram-grey-bg.svg" />
 </a>
  
 
